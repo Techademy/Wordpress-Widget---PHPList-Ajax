@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: jthijssen
-Donate link: http://www.adayinthelifeof.com/
+Donate link: http://www.adayinthelifeof.nl/
 Tags: mailing
 Requires at least: 3
 Tested up to: 3.2.1
